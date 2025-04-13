@@ -1,7 +1,3 @@
-Perfect! Here's your updated `README.md` with just your portfolio link under the **Contact** section:
-
----
-
 # 📊 E-Commerce Data Analysis Project
 
 This project performs a comprehensive analysis of sales and profit data from a sample e-commerce superstore dataset using Python and Plotly. The objective is to extract meaningful business insights, including trends, performance by category, and customer segments.
